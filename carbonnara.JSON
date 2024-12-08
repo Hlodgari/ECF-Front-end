@@ -1,0 +1,17 @@
+[
+    {
+        "plat": "pizza",
+        "nom": "Carbonnara",
+        "base": "creme",
+        "ingredients": [
+            "Crème",
+            " Mozzarella",
+            " Lardons",
+            " Emmental",
+            " Jaune d'oeuf"
+        ],
+        "prix": 11.5,
+        "devise": "€",
+        "image": "img/carbonnara.jpg"
+    }
+]

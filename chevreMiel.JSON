@@ -1,0 +1,16 @@
+[
+    {
+        "plat": "pizza",
+        "nom": "Chevre miel",
+        "base": "creme",
+        "ingredients": [
+            "Crème",
+            " Mozzarella",
+            " fromage de chevre",
+            " miel"
+        ],
+        "prix": 9.5,
+        "devise": "€",
+        "image": "img/chevre miel.jpg"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "plat": "pizza",
+        "nom": "Vosgienne",
+        "base": "creme",
+        "ingredients": [
+            "Munster",
+            " Mozzarella",
+            " Lardons",
+            " Crème"
+        ],
+        "prix": 10.5,
+        "devise": "€",
+        "image": "img/vosgienne.jpg"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "plat": "pizza",
+        "nom": "Margherita",
+        "base": "tomate",
+        "ingredients": [
+            "Tomates fraîches",
+            " Mozzarella",
+            " Basilic",
+            " Huile d'olive"
+        ],
+        "prix": 8.5,
+        "devise": "€",
+        "image": "img/mergherita.jpg"
+    }
+]

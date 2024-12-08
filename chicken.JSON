@@ -1,0 +1,16 @@
+[
+    {
+        "plat": "pizza",
+        "nom": "Chicken",
+        "base": "creme",
+        "ingredients": [
+            "Crème",
+            " Mozzarella",
+            " Poulet",
+            " Emmental"
+        ],
+        "prix": 11.5,
+        "devise": "€",
+        "image": "img/Chicken.jpg"
+    }
+]

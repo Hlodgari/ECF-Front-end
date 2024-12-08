@@ -1,0 +1,17 @@
+[
+    {
+        "plat": "pizza",
+        "nom": "4 fromages",
+        "base": "tomate",
+        "ingredients": [
+            "Tomates fraîches",
+            " Parmesan",
+            " Fontine",
+            " Gorgonzola",
+            " Mozzarella"
+        ],
+        "prix": 11.5,
+        "devise": "€",
+        "image": "img/4 fromages.jpg"
+    }
+]

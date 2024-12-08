@@ -1,0 +1,17 @@
+[
+    {
+        "plat": "pizza",
+        "nom": "Champignon",
+        "base": "tomate",
+        "ingredients": [
+            "Tomates fraîches",
+            " Mozzarella",
+            " Basilic",
+            " Huile d'olive",
+            "Champignon"
+        ],
+        "prix": 9.5,
+        "devise": "€",
+        "image": "img/Champignon.jpg"
+    }
+]
